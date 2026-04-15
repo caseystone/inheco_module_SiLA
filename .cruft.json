@@ -1,0 +1,31 @@
+{
+  "template": "https://gitlab.com/unitelabs/cdk/connector-factory.git",
+  "commit": "69585dd163662d9263d1ce0ebcc6cda3524be6c1",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "connector_name": "Inheco Test Connector",
+      "project_name": "inheco-test-connector",
+      "package_name": "inheco_test_connector",
+      "__package_import_name": "unitelabs.inheco_test_connector",
+      "__protocol_name": "InhecoTestConnector",
+      "project_description": "A connector for the Inheco Test Connector built with the UniteLabs CDK.",
+      "author_full_name": "Casey Stone",
+      "author_email": "cstone@anl.gov",
+      "project_repo": "https://gitlab.com/unitelabs/connectors/inheco-test-connector",
+      "communication_type": "none",
+      "env": "uv",
+      "_render_devdocs": false,
+      "_jinja2_env_vars": {
+        "lstrip_blocks": true,
+        "trim_blocks": true
+      },
+      "_extensions": [
+        "internal_ext.IsInternalExtension"
+      ],
+      "_template": "https://gitlab.com/unitelabs/cdk/connector-factory.git",
+      "_commit": "69585dd163662d9263d1ce0ebcc6cda3524be6c1"
+    }
+  },
+  "directory": null
+}
